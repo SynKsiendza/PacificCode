@@ -37,7 +37,7 @@ To get the release go to [Github Release Page](https://github.com/SynKsiendza/Pa
 
 ## Roadmap
 
-![RoadMap](https://github.com/SynKsiendza/PacificCode/docs/roadmap.md)
+[RoadMap](https://github.com/SynKsiendza/PacificCode/docs/roadmap.md)
 
 ## License
 
