@@ -1,0 +1,20 @@
+# ninja log v5
+12	88	7452563921687355	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	d1acb7b1f511b79f
+80	311	7452562722110751	PacificCode_autogen/timestamp	d0a4b32590ca8e3c
+80	311	7452562722110751	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/PacificCode_autogen/mocs_compilation.cpp	d0a4b32590ca8e3c
+80	311	7452562722110751	PacificCode_autogen/mocs_compilation.cpp	d0a4b32590ca8e3c
+80	311	7452562722110751	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/PacificCode_autogen/timestamp	d0a4b32590ca8e3c
+314	1671	7452562736131157	CMakeFiles/PacificCode.dir/PacificCode_autogen/mocs_compilation.cpp.obj	f276e05b79eb2650
+320	1673	7452562736151522	CMakeFiles/PacificCode.dir/mainwindow.cpp.obj	534976c33d248b91
+317	1675	7452562736151522	CMakeFiles/PacificCode.dir/main.cpp.obj	e7b24e0a90c021e
+1675	2039	7452562739497710	PacificCode.exe	f33c71ba78ace13c
+88	596	7452563926383836	build.ninja	965de28851560ca0
+14	91	0	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/CMakeFiles/cmake.verify_globs	d1acb7b1f511b79f
+97	196	7452563786145664	PacificCode_autogen/timestamp	d0a4b32590ca8e3c
+97	196	7452563786145664	PacificCode_autogen/mocs_compilation.cpp	d0a4b32590ca8e3c
+97	196	7452563786145664	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/PacificCode_autogen/timestamp	d0a4b32590ca8e3c
+97	196	7452563786145664	F:/Moje Śmieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug/PacificCode_autogen/mocs_compilation.cpp	d0a4b32590ca8e3c
+198	1496	7452563942032561	CMakeFiles/PacificCode.dir/PacificCode_autogen/mocs_compilation.cpp.obj	f276e05b79eb2650
+204	1509	7452563942176029	CMakeFiles/PacificCode.dir/mainwindow.cpp.obj	534976c33d248b91
+201	1516	7452563942246986	CMakeFiles/PacificCode.dir/main.cpp.obj	e7b24e0a90c021e
+1516	1701	7452563943615561	PacificCode.exe	f33c71ba78ace13c

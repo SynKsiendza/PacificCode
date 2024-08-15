@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-82fad2b9b422adc0e4dd.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "PacificCode",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "PacificCode::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacificCode-Debug-7ef95fc30d59d0d534f2.json",
+					"name" : "PacificCode",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PacificCode_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacificCode_autogen-Debug-1a7e079d818e4aa32d2a.json",
+					"name" : "PacificCode_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "PacificCode_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-PacificCode_autogen_timestamp_deps-Debug-662104c79958317f14fe.json",
+					"name" : "PacificCode_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/Moje \u015amieci/IDE_Unnamed IDE/PacificCode/build/Desktop_Qt_6_6_3_MSVC2019_64bit-Debug",
+		"source" : "F:/Moje \u015amieci/IDE_Unnamed IDE/PacificCode"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
